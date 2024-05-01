@@ -1,11 +1,14 @@
-# 😸 Hi there 
+# Hello there
 
-I'm the milkman, my milk is delicious, and I'm a freshman year computer science student. Right now I'm trying to learn the basics of web development to become (hopefully) a full-stack dev. My favorite language right now is JavaScript which is also the language I hate the most. I'm also extremely interested in open source! 
 
-<hr>
 
-## My Github stats (which will hopefully improve in the future 🤠)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=igufu&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=igufu&show_icons=true&theme=codeSTACKr)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igufu&layout=compact&theme=codeSTACKr)
+
+
+
+
+
 #
 
 ### 📚 My Tech Stack
